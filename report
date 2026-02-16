@@ -1,1 +1,3 @@
+During the project, we faced challenges related to Git configuration and repository synchronization, including working in the wrong local repository, misconfigured remotes (HTTPS vs SSH), missing fetch operations after changing the remote, and branches with unrelated commit histories that prevented us from creating a pull request. These issues required careful inspection of branch graphs, remotes, and commit history to correctly align local and remote repositories and establish a shared history before merging.
 
+By successfully completing the assignment, we learned how to properly manage Git remotes, synchronize branches, resolve unrelated histories, and coordinate a clean DEV-to-PRD workflow using pull requests and isolated virtual environments.
